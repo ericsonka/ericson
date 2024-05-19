@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericsonka
+- 👋 Hi, I’m @ericson
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
